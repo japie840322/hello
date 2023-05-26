@@ -1,0 +1,43 @@
+dasallen101@gmail.com   das168168
+
+ALLEN_DAS   Das168168 (LOADRUNNER
+
+proxmox virtual environment
+https://163.22.171.132:8006/#v1:0:18:4:::::::
+root ffHH345
+
+
+845629924
+DasHes7718
+163.22.171.139
+139 140 145 146 147 
+
+192.168.11.13
+
+administrator \ 1qaz@WSX3edc  
+
+time.stdtime.gov.tw
+
+
+
+
+
+
+<day_profile>
+                     <day_id>20</day_id>
+                     <day_schedule>
+                        <start_time>00:00:00</start_time>
+                        <script_logical_name>0.0.10.0.100.255</script_logical_name>
+                        <script_selector>3</script_selector>
+                     </day_schedule>
+					 <day_schedule>
+                        <start_time>07:00:00</start_time>
+                        <script_logical_name>0.0.10.0.100.255</script_logical_name>
+                        <script_selector>3</script_selector>
+                     </day_schedule>
+					 <day_schedule>
+                        <start_time>10:00:00</start_time>
+                        <script_logical_name>0.0.10.0.100.255</script_logical_name>
+                        <script_selector>3</script_selector>
+                     </day_schedule>
+                  </day_profile>
