@@ -1,0 +1,6 @@
+CREATE TABLE [newtaipowerdb].[dbo].SCHOOL_IPADRESS
+(
+SCHOOL nvarchar(20),
+[IPADRESS] nvarchar(30)
+)
+

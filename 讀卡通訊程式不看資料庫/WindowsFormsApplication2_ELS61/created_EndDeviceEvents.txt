@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EventMessage xmlns="http://iec.ch/TC57/2011/schema/message">
+	<Header>
+		<Verb>created</Verb>
+		<Noun>EndDeviceEvents</Noun>
+		<Revision>1</Revision>
+		<Context>PRODUCTION</Context>
+		<Timestamp>2017-06-24T11:30:00.234+08:00</Timestamp>
+		<Source>HES-DAS</Source>
+		<MessageID>931e7d3e-1404-42fb-b171-84577d145c6e</MessageID>
+	</Header>
+	<Payload>
+		<EndDeviceEvents xmlns="http://iec.ch/TC57/2011/EndDeviceEvents#">
+			<EndDeviceEvent>
+				<createdDateTime>2017-06-24T11:05:00.000+08:00</createdDateTime>
+				<Assets>
+					<Names>
+						<name>T016693751</name>
+						<NameType>
+							<name>MeterUniqueID</name>
+						</NameType>
+					</Names>
+				</Assets>
+				<EndDeviceEventType ref="3.2.22.150"/>
+			</EndDeviceEvent>
+		</EndDeviceEvents>
+	</Payload>
+</EventMessage>

@@ -1,0 +1,17 @@
+CREATE TABLE [newtaipowerdb].[dbo].classroom_Summary
+(
+SCHOOL nvarchar(20),
+building nvarchar(20),
+building_floor nvarchar(10),
+classroom nvarchar(20),
+on_off nvarchar(10),
+ip_address nvarchar(30),
+ModuleID1 nvarchar(20),
+ModuleID2 nvarchar(20),
+agate nvarchar(20),
+meter nvarchar(20),
+cardreader nvarchar(20),
+IP_ADRESS nvarchar(30),
+update_time datetime
+)
+

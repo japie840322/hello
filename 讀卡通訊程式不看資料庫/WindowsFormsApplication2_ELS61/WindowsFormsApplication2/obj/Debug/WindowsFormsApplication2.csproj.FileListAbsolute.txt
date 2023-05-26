@@ -1,0 +1,114 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_4H\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\DAS\Desktop\VS2013_Projects\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\通訊標案網頁\HES資料處理\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\test\Desktop\David的程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\test\Desktop\備份\ALLEN的程式1\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\test\Desktop\備份\ALLEN的程式1\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\test\Desktop\備份\ALLEN的程式1\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\test\Desktop\備份\ALLEN的程式純只有sql\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\das\Desktop\ALLEN的程式讀卡\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\das\Desktop\讀卡通訊程式\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\das\Desktop\讀卡通訊程式 - 複製\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式 (通訊等待時間延長)\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\bin\Debug\Security.Cryptography.dll
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\das\Desktop\讀卡通訊程式\讀卡通訊程式不看資料庫\WindowsFormsApplication2_ELS61\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

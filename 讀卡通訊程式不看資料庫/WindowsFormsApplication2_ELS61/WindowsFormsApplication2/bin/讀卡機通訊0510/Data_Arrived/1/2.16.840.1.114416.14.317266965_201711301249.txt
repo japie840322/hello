@@ -1,0 +1,40 @@
+Received: 2017/11/30 12:49:48
+ESN: 2.16.840.1.114416.14.317266965
+DeviceClass: 65.51.48.48.51.80.68.67
+ Quantity: Wh d
+ TimeDataEnd: 2017/11/30 12:45:00
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+  Interval Value: 10000
+ Quantity: Varh d
+ TimeDataEnd: 2017/11/30 12:45:00
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+  Interval Value: 8000
+

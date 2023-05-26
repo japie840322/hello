@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EventMessage xmlns="http://iec.ch/TC57/2011/schema/message">
+	<Header>
+		<Verb>created</Verb>
+		<Noun>MeterReadings</Noun>
+		<Revision>1</Revision>
+		<Context>PRODUCTION</Context>
+		<Timestamp>2017-06-24T10:45:00.123+08:00</Timestamp>
+		<Source>HES-DAS</Source>
+		<MessageID>b9581fd0-8c1e-47bd-873d-17c15b4cfc56</MessageID>
+	</Header>
+	<Payload>
+		<MeterReadings xmlns="http://iec.ch/TC57/2011/MeterReadings#">
+			<MeterReading>
+				<IntervalBlocks>
+					<IntervalReadings>
+						<timeStamp>2017-06-24T10:30:00.000+08:00</timeStamp>
+						<value>100</value>
+					</IntervalReadings>
+					<ReadingType ref="0.0.0.9.1.2.12.0.0.0.0.0.0.0.0.3.72.0"/>
+				</IntervalBlocks>
+				<IntervalBlocks>
+					<IntervalReadings>
+						<timeStamp>2017-06-24T10:30:00.000+08:00</timeStamp>
+						<value>1.5</value>
+					</IntervalReadings>
+					<ReadingType ref="0.0.0.9.1.2.164.0.0.0.0.0.0.0.0.3.73.0"/>
+				</IntervalBlocks>
+				<Meter>
+					<Names>
+						<name>T000769371</name>
+						<NameType>
+							<name>MeterUniqueID</name>
+						</NameType>
+					</Names>
+				</Meter>
+			</MeterReading>
+		</MeterReadings>
+	</Payload>
+</EventMessage>

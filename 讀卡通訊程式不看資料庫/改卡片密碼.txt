@@ -1,0 +1,10 @@
+
+CREATE TABLE [DAS_AHES].[dbo].Card_pass
+(card_no nvarchar(20),
+old_pass nvarchar(20),
+new_pass nvarchar(20),
+update_time nvarchar(50),
+
+
+)
+

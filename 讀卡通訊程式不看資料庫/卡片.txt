@@ -1,0 +1,18 @@
+
+CREATE TABLE [DAS_AHES].[dbo].Card_message
+(card_no nvarchar(20),
+for_cardreader nvarchar(20),
+card_type nvarchar(10),
+on_off nvarchar(50),
+pasword varbinary(30),
+update_time datetime,
+time_range nvarchar(50),
+remainder_money nvarchar(10),
+
+)
+
+
+
+INSERT INTO [DAS_AHES].[dbo].Card_message 
+(card_no,card_type,pasword,time_range,remainder_money)
+VALUES ('2052435732', '3',0x010203040506, '0.0.0.0.0.0.0.0.0.0','0');
